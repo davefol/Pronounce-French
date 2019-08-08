@@ -1,3 +1,5 @@
 *.ogg
 .DS_Store
 env/
+__pycache__/
+build/
