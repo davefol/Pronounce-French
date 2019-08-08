@@ -1,4 +1,4 @@
-#Pronounce (French)
+# Pronounce (French)
 This is a simple program that I wrote to quickly acquire pronounciation for french words for use in my Anki flash cards. I may or may not add a simple GUI for the less tech savy in a future version. Feel free to send pull requests and add issues.
 
 
